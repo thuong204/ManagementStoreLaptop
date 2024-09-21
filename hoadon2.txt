@@ -1,0 +1,6 @@
+Hóa đơn
+Ngày: 09/07/2023
+Tên khách hàng: John Doe
+Sản phẩm: ABC123
+Giá: $10
+Tổng cộng: $10
